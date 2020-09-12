@@ -1,6 +1,6 @@
 {
   "homepage": "http://ahmedellord56.github.io/CRUD-Application",
-  "name": "courselist",
+  "name": "CRUD",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

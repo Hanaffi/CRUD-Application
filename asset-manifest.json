@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CRUD-Application/static/css/main.5554cba5.chunk.css",
+    "main.js": "/CRUD-Application/static/js/main.dd557d46.chunk.js",
+    "main.js.map": "/CRUD-Application/static/js/main.dd557d46.chunk.js.map",
+    "runtime-main.js": "/CRUD-Application/static/js/runtime-main.1cd1b786.js",
+    "runtime-main.js.map": "/CRUD-Application/static/js/runtime-main.1cd1b786.js.map",
+    "static/js/2.ed612737.chunk.js": "/CRUD-Application/static/js/2.ed612737.chunk.js",
+    "static/js/2.ed612737.chunk.js.map": "/CRUD-Application/static/js/2.ed612737.chunk.js.map",
+    "index.html": "/CRUD-Application/index.html",
+    "precache-manifest.cb020b94665370d0524b154ea4b1e10c.js": "/CRUD-Application/precache-manifest.cb020b94665370d0524b154ea4b1e10c.js",
+    "service-worker.js": "/CRUD-Application/service-worker.js",
+    "static/css/main.5554cba5.chunk.css.map": "/CRUD-Application/static/css/main.5554cba5.chunk.css.map",
+    "static/js/2.ed612737.chunk.js.LICENSE.txt": "/CRUD-Application/static/js/2.ed612737.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cd1b786.js",
+    "static/js/2.ed612737.chunk.js",
+    "static/css/main.5554cba5.chunk.css",
+    "static/js/main.dd557d46.chunk.js"
+  ]
+}

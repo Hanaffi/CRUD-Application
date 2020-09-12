@@ -1,0 +1,62 @@
+*
+{
+  box-sizing: border-box;;
+}
+
+body{
+  background:greenyellow;
+  margin:0;
+  text-align: center;
+}
+
+h2{
+  background: red;;
+  padding: 18px;
+  color:white;
+}
+.App{
+  padding: 30px;
+  width: 80%;
+  margin:50px auto;
+  box-sizing: 1px 2px 5px white;;
+  background: rgb(90, 171, 182);
+}
+input{
+  width:80%;
+  border:0px;
+  padding:6px 10px;
+  background:#f3fdc6;
+}
+
+button{
+    width:20%;
+    border:0px;
+    padding:6px 0px;
+    margin: 0 ;
+    outline: 0;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+    background: green;;
+}
+ul{
+  list-style: none;;
+  padding: 0;
+}
+li{
+  margin:15px 0;
+}
+li span{
+  display: inline-block;
+  width: 60%;
+  color:rgb(0, 0, 0);
+}
+li >  button:first-of-type{
+  background: slateblue;
+  color:white;
+  width: 19%;
+  margin-right: 1%;
+}
+ul > form{
+  margin: 15px 0;
+}
